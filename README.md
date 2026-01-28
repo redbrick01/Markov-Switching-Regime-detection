@@ -1,1 +1,1 @@
-# S-P500-Markov-Switching-Regime-detection
+# Markov-Switching-Regime-detection
